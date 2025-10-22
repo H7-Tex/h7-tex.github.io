@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "Ezio Auditore", "id": 1258}, "date": "2025-10-18T07:00:57.074063+00:00", "id": 5342, "challenge": {"name": "Wash Away ", "category": "OSINT", "value": 1500, "id": 16}, "team": {"name": "r00t@localhost", "id": 443}, "challenge_id": 16, "type": "correct"}], "meta": {"count": 1}}

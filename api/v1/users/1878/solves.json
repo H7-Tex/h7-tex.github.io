@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "chrispy", "id": 1878}, "date": "2025-10-19T09:28:37.430175+00:00", "id": 31355, "challenge": {"name": "Blazing Hot", "category": "OSINT", "value": 1500, "id": 20}, "team": {"name": "Xyl0n", "id": 854}, "challenge_id": 20, "type": "correct"}], "meta": {"count": 1}}

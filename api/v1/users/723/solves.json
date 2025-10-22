@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "Harisaran S", "id": 723}, "date": "2025-10-18T04:45:19.181188+00:00", "id": 2281, "challenge": {"name": "KGF 1.0", "category": "DFIR", "value": 1500, "id": 38}, "team": {"name": "Bro Code", "id": 315}, "challenge_id": 38, "type": "correct"}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "AgentPerry", "id": 820}, "date": "2025-10-18T10:56:50.956617+00:00", "id": 8878, "challenge": {"name": "KGF 1.0", "category": "DFIR", "value": 1500, "id": 38}, "team": {"name": "$cr1pt_K1dd13$", "id": 350}, "challenge_id": 38, "type": "correct"}], "meta": {"count": 1}}

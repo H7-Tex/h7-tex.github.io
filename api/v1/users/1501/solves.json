@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "pingotux", "id": 1501}, "date": "2025-10-19T11:12:04.823200+00:00", "id": 32878, "challenge": {"name": "Seccomp Jail", "category": "Pwn", "value": 2500, "id": 48}, "team": {"name": "DragonSec SI", "id": 373}, "challenge_id": 48, "type": "correct"}], "meta": {"count": 1}}

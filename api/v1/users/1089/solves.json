@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "d4rksec.0.0.3", "id": 1089}, "date": "2025-10-19T13:57:45.608877+00:00", "id": 35872, "challenge": {"name": "Alohomora", "category": "Web", "value": 2000, "id": 15}, "team": {"name": "DarkSec", "id": 457}, "challenge_id": 15, "type": "correct"}], "meta": {"count": 1}}

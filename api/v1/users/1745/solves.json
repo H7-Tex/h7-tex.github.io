@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "Darth Mayan", "id": 1745}, "date": "2025-10-19T05:12:24.724005+00:00", "id": 25645, "challenge": {"name": "Mauryan Imperial Archives", "category": "Pwn", "value": 1000, "id": 10}, "team": {"name": "PwnTeras", "id": 433}, "challenge_id": 10, "type": "correct"}], "meta": {"count": 1}}

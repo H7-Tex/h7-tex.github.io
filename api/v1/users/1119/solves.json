@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "trinh", "id": 1119}, "date": "2025-10-18T06:52:04.284582+00:00", "id": 5212, "challenge": {"name": "Mauryan Imperial Archives", "category": "Pwn", "value": 1000, "id": 10}, "team": {"name": "ZeroHunters", "id": 460}, "challenge_id": 10, "type": "correct"}], "meta": {"count": 1}}

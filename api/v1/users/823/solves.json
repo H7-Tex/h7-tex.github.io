@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "cryptdpk", "id": 823}, "date": "2025-10-19T10:15:51.199382+00:00", "id": 32020, "challenge": {"name": "RecoverFS", "category": "DFIR", "value": 1750, "id": 41}, "team": {"name": "DOSA", "id": 347}, "challenge_id": 41, "type": "correct"}], "meta": {"count": 1}}

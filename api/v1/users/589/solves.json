@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "zerotier", "id": 589}, "date": "2025-10-18T05:45:01.918531+00:00", "id": 3678, "challenge": {"name": "Guess ??", "category": "Rev", "value": 1000, "id": 34}, "team": {"name": "HTTP.418", "id": 257}, "challenge_id": 34, "type": "correct"}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "GamerChris", "id": 1542}, "date": "2025-10-18T15:49:18.601335+00:00", "id": 12252, "challenge": {"name": "High Rise ", "category": "OSINT", "value": 1000, "id": 36}, "team": {"name": "VGU_Cypher", "id": 362}, "challenge_id": 36, "type": "correct"}], "meta": {"count": 1}}

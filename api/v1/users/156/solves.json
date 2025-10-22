@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "frozenRDX", "id": 156}, "date": "2025-10-19T07:21:26.796408+00:00", "id": 28389, "challenge": {"name": "Seccomp Jail", "category": "Pwn", "value": 2500, "id": 48}, "team": {"name": "deathwing", "id": 64}, "challenge_id": 48, "type": "correct"}], "meta": {"count": 1}}

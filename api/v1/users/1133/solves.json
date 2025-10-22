@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "BlitzHack", "id": 1133}, "date": "2025-10-18T04:15:01.200588+00:00", "id": 1716, "challenge": {"name": "Guess ??", "category": "Rev", "value": 1000, "id": 34}, "team": {"name": "Blitzhack", "id": 470}, "challenge_id": 34, "type": "correct"}], "meta": {"count": 1}}

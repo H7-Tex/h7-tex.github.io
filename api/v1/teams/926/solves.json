@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "MMUStudent", "id": 1957}, "date": "2025-10-19T13:43:47.189807+00:00", "id": 35722, "challenge": {"name": "KGF 2.0", "category": "DFIR", "value": 2000, "id": 39}, "team": {"name": "MMU", "id": 926}, "challenge_id": 39, "type": "correct"}], "meta": {"count": 1}}

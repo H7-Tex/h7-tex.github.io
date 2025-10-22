@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "Deependra", "id": 945}, "date": "2025-10-18T17:16:28.534392+00:00", "id": 17027, "challenge": {"name": "Guess ??", "category": "Rev", "value": 1000, "id": 34}, "team": {"name": "Dev", "id": 395}, "challenge_id": 34, "type": "correct"}], "meta": {"count": 1}}

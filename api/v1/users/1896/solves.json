@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "thefireskull", "id": 1896}, "date": "2025-10-19T14:30:30.174047+00:00", "id": 36611, "challenge": {"name": "The Lord ", "category": "OSINT", "value": 2000, "id": 30}, "team": {"name": "UAC", "id": 384}, "challenge_id": 30, "type": "correct"}], "meta": {"count": 1}}

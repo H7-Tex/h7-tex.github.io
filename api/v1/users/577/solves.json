@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "cybr0gbytes", "id": 577}, "date": "2025-10-18T15:11:49.085283+00:00", "id": 11228, "challenge": {"name": "High Rise ", "category": "OSINT", "value": 1000, "id": 36}, "team": {"name": "CSEC", "id": 253}, "challenge_id": 36, "type": "correct"}], "meta": {"count": 1}}

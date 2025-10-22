@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "Someone", "id": 821}, "date": "2025-10-18T08:27:17.145954+00:00", "id": 6826, "challenge": {"name": "RecoverFS", "category": "DFIR", "value": 1750, "id": 41}, "team": {"name": "$cr1pt_K1dd13$", "id": 350}, "challenge_id": 41, "type": "correct"}], "meta": {"count": 1}}

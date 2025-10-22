@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "t0rk", "id": 607}, "date": "2025-10-18T11:57:40.849515+00:00", "id": 9316, "challenge": {"name": "Wash Away ", "category": "OSINT", "value": 1500, "id": 16}, "team": {"name": "Kappi", "id": 155}, "challenge_id": 16, "type": "correct"}], "meta": {"count": 1}}

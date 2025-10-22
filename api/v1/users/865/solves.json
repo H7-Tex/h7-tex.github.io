@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "sskk", "id": 865}, "date": "2025-10-18T04:33:31.833736+00:00", "id": 2100, "challenge": {"name": "Wash Away ", "category": "OSINT", "value": 1500, "id": 16}, "team": {"name": "CYSC0M", "id": 344}, "challenge_id": 16, "type": "correct"}], "meta": {"count": 1}}

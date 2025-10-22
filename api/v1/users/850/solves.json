@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "leinad", "id": 850}, "date": "2025-10-18T04:27:47.248716+00:00", "id": 1981, "challenge": {"name": "Wash Away ", "category": "OSINT", "value": 1500, "id": 16}, "team": {"name": "Never win CTF man \ud83e\udd40", "id": 360}, "challenge_id": 16, "type": "correct"}], "meta": {"count": 1}}

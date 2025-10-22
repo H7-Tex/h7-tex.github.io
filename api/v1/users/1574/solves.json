@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "gremlingoat", "id": 1574}, "date": "2025-10-18T16:11:11.577371+00:00", "id": 13820, "challenge": {"name": "High Rise ", "category": "OSINT", "value": 1000, "id": 36}, "team": {"name": "g0a1s", "id": 625}, "challenge_id": 36, "type": "correct"}], "meta": {"count": 1}}

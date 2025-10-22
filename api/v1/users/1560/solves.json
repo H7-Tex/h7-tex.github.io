@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "martinco", "id": 1560}, "date": "2025-10-19T09:48:05.014020+00:00", "id": 31622, "challenge": {"name": "The Lord ", "category": "OSINT", "value": 2000, "id": 30}, "team": {"name": "DragonSec SI", "id": 373}, "challenge_id": 30, "type": "correct"}], "meta": {"count": 1}}

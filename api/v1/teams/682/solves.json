@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "tipsen", "id": 1545}, "date": "2025-10-18T16:02:24.392049+00:00", "id": 13131, "challenge": {"name": "KGF 1.0", "category": "DFIR", "value": 1500, "id": 38}, "team": {"name": "tipsen", "id": 682}, "challenge_id": 38, "type": "correct"}], "meta": {"count": 1}}

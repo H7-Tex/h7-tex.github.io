@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "shark", "id": 1808}, "date": "2025-10-19T12:50:25.491666+00:00", "id": 34395, "challenge": {"name": "Quantum Memory", "category": "Pwn", "value": 2000, "id": 46}, "team": {"name": "shark", "id": 839}, "challenge_id": 46, "type": "correct"}], "meta": {"count": 1}}

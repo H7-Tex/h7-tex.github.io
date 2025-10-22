@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "azril brainroad", "id": 851}, "date": "2025-10-18T13:28:51.938763+00:00", "id": 10351, "challenge": {"name": "High Rise ", "category": "OSINT", "value": 1000, "id": 36}, "team": {"name": "Never win CTF man \ud83e\udd40", "id": 360}, "challenge_id": 36, "type": "correct"}], "meta": {"count": 1}}

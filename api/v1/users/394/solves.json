@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "Harsha_604", "id": 394}, "date": "2025-10-18T05:16:19.010910+00:00", "id": 3042, "challenge": {"name": "High Rise ", "category": "OSINT", "value": 1000, "id": 36}, "team": {"name": "Spongebob", "id": 370}, "challenge_id": 36, "type": "correct"}], "meta": {"count": 1}}

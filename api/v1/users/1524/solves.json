@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "street", "id": 1524}, "date": "2025-10-19T11:14:21.897444+00:00", "id": 32897, "challenge": {"name": "0x0f05", "category": "Pwn", "value": 2000, "id": 47}, "team": {"name": "DragonSec SI", "id": 373}, "challenge_id": 47, "type": "correct"}], "meta": {"count": 1}}

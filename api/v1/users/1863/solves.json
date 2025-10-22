@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "ebreo", "id": 1863}, "date": "2025-10-19T09:55:37.251094+00:00", "id": 31728, "challenge": {"name": "The Lord ", "category": "OSINT", "value": 2000, "id": 30}, "team": {"name": "ByteTheCookies", "id": 396}, "challenge_id": 30, "type": "correct"}], "meta": {"count": 1}}

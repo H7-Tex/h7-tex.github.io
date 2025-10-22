@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "scubalaser", "id": 1139}, "date": "2025-10-18T04:46:25.727642+00:00", "id": 2299, "challenge": {"name": "High Rise ", "category": "OSINT", "value": 1000, "id": 36}, "team": {"name": "NYUSEC", "id": 311}, "challenge_id": 36, "type": "correct"}], "meta": {"count": 1}}

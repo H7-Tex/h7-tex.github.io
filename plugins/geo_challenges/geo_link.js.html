@@ -1,0 +1,28 @@
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Script minimal pour convertir les coordonnées GPS en liens
+            setInterval(function() {
+                var elements = document.querySelectorAll('pre, td');
+                elements.forEach(function(el) {
+                    if (el.hasAttribute('data-processed')) return;
+                    
+                    var text = el.innerText || '';
+                    var match = text.match(/^lat:([-\d.]+),lon:([-\d.]+)$/);
+                    
+                    if (match) {
+                        var lat = match[1];
+                        var lon = match[2];
+                        var url = 'https://www.openstreetmap.org/?mlat=' + lat + '&mlon=' + lon + '&zoom=15';
+                        
+                        // Créer un lien simple sans toucher au DOM complexe
+                        var originalText = el.innerHTML;
+                        var newHtml = '<a href="' + url + '" target="_blank">' + originalText + '</a>';
+                        el.innerHTML = newHtml;
+                        
+                        // Marquer comme traité
+                        el.setAttribute('data-processed', 'true');
+                    }
+                });
+            }, 2000); // Exécuter toutes les 2 secondes
+        });
+        

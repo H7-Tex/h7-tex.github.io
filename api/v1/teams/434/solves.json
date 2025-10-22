@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "omar", "id": 1648}, "date": "2025-10-18T18:30:17.997948+00:00", "id": 19110, "challenge": {"name": "High Rise ", "category": "OSINT", "value": 1000, "id": 36}, "team": {"name": "Pwnd0k", "id": 434}, "challenge_id": 36, "type": "correct"}], "meta": {"count": 1}}

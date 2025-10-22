@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "0x10inluculent", "id": 1675}, "date": "2025-10-18T20:51:21.450973+00:00", "id": 21638, "challenge": {"name": "Blazing Hot", "category": "OSINT", "value": 1500, "id": 20}, "team": {"name": "CPSEC", "id": 761}, "challenge_id": 20, "type": "correct"}], "meta": {"count": 1}}

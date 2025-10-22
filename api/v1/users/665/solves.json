@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "etron013", "id": 665}, "date": "2025-10-19T07:14:53.595753+00:00", "id": 28221, "challenge": {"name": "Seccomp Jail", "category": "Pwn", "value": 2500, "id": 48}, "team": {"name": "Hesoyam", "id": 290}, "challenge_id": 48, "type": "correct"}], "meta": {"count": 1}}

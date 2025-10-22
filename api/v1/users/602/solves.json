@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "payloadcooker", "id": 602}, "date": "2025-10-18T16:56:14.090019+00:00", "id": 16362, "challenge": {"name": "\u691c\u8a3c", "category": "Misc", "value": 500, "id": 21}, "team": {"name": "AtyrauSec", "id": 110}, "challenge_id": 21, "type": "correct"}], "meta": {"count": 1}}

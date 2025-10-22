@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "aqz", "id": 548}, "date": "2025-10-18T12:35:22.222181+00:00", "id": 9731, "challenge": {"name": "High Rise ", "category": "OSINT", "value": 1000, "id": 36}, "team": {"name": "chuuni club", "id": 229}, "challenge_id": 36, "type": "correct"}], "meta": {"count": 1}}

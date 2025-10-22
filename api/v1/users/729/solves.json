@@ -1,0 +1,1 @@
+{"success": true, "data": [{"user": {"name": "sandal", "id": 729}, "date": "2025-10-18T20:02:33.071389+00:00", "id": 21041, "challenge": {"name": "Blind Spot", "category": "Cloud", "value": 1500, "id": 31}, "team": {"name": "NYUSEC", "id": 311}, "challenge_id": 31, "type": "correct"}], "meta": {"count": 1}}
